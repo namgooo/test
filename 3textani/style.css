@@ -16,7 +16,7 @@ section .scroll{position: absolute;
     display: flex;
     top: 0px; left: 95px;
     transform: rotate(90deg) translate(0px, 0px);
-    transform-origin: left top;  /* =  중심축 이동 (수정)*/
+    transform-origin: left top;  /* =  중심축 이동 */
     }
 
 section .scroll div{
